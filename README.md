@@ -3,3 +3,6 @@
 - Slides
 - Lecture notes
 - Code 
+
+Explore available HiWi positions and thesis topics at [datasciapps.de/jobs](https://datasciapps.de/jobs/).
+
